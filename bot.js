@@ -17,7 +17,7 @@ const fs = require('fs');
 
 
 
-const prefix = "3"
+const prefix = "7"
 
 client.on('ready', () => {
   console.log('cxxxx[]̲̅ ̲̅ ̲̅ ̲̅.̲̅ ̲̅ ̲̅.̲̅ ̲̅ ̲̅.̲̅ ̲̅ ̲̅.̲̅ ̲̅ ̲̅.̲̅ ̲̅ ̅/')
@@ -33,7 +33,7 @@ client.on('ready', () => {
   client.on('ready', async () => {
       let ToRnEdO  = ["this","is","nothing"]
   setInterval(() => {
-client.channels.get("506545638922649614").send(`${ToRnEdO [Math.floor(Math.random() *ToRnEdO .length)]}`)
+client.channels.get("507502676670545920").send(`${ToRnEdO [Math.floor(Math.random() *ToRnEdO .length)]}`)
 },500);
 });
   
